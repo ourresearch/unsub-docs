@@ -11,6 +11,7 @@
   * [Comparing scenarios](tutorials/comparing-scenarios.md)
   * [Consortial dashboard](tutorials/consortial-dashboard.md)
 * [How-to guides](how-to-guides/README.md)
+  * [Change your password](how-to-guides/change-your-password.md)
   * [Upload COUNTER usage data](how-to-guides/upload-counter-usage-data.md)
   * [Set currency](how-to-guides/set-currency.md)
   * [Set Big Deal costs](how-to-guides/set-big-deal-costs.md)
