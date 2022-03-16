@@ -8,9 +8,9 @@ Unsub is a dashboard that helps you reevaluate your big deal, and understand you
 
 ![](.gitbook/assets/screenshot-in-frame.png)
 
-Unsub documentation is separated into major sections oriented towards certain learning goals:
+This documentation is separated into four major sections oriented towards your learning goals:
 
-* [Tutorials](tutorials/)
-* [How-to guides](how-to-guides/)
-* [Reference](reference/)
-* [Background](background/)
+* [Tutorials](tutorials/): Easy to follow step by step guides to getting started with Unsub.&#x20;
+* [How-to guides](how-to-guides/): Guides on solving specific problems. For example, [Upload title prices](how-to-guides/upload-title-prices.md)
+* [Reference](reference/): Technical information about components of Unsub. For example, [Scenario parameters](reference/scenario-parameters.md)
+* [Background](background/): In depth articles geared towards understanding why. For example, [Are turnaways counted as usage?](background/are-turnaways-counted-as-usage.md)
