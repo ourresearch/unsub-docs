@@ -6,6 +6,10 @@ Have you created a scenario yet? If not go [do that now](create-and-work-with-sc
 
 Click the **Parameters** tab
 
+You should see a page of the nine parameters and their details
+
+![](../.gitbook/assets/parameters-tab.png)
+
 The first thing to notice is that you can toggle on or off the description (details) for each parameter.
 
 ![](../.gitbook/assets/parameter-details.png)
