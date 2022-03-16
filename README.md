@@ -8,3 +8,9 @@ Unsub is a dashboard that helps you reevaluate your big deal, and understand you
 
 ![](.gitbook/assets/screenshot-in-frame.png)
 
+Unsub documentation is separated into major sections oriented towards certain learning goals:
+
+* [Tutorials](tutorials/)
+* [How-to guides](how-to-guides/)
+* [Reference](reference/)
+* [Background](background/)

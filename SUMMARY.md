@@ -7,7 +7,7 @@
   * [Create and work with scenarios](tutorials/create-and-work-with-scenarios.md)
   * [Subscribing title by title](tutorials/subscribing-title-by-title.md)
   * [Comparing scenarios](tutorials/comparing-scenarios.md)
-* [How To Guides](how-to-guides/README.md)
+* [How-to guides](how-to-guides/README.md)
   * [Upload COUNTER usage data](how-to-guides/upload-counter-usage-data.md)
   * [Set currency](how-to-guides/set-currency.md)
   * [Set Big Deal costs](how-to-guides/set-big-deal-costs.md)
