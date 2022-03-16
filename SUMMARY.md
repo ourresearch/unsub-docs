@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [Tips](tips.md)
 * [Tutorials](tutorials/README.md)
   * [Logging in](tutorials/logging-in.md)
   * [Create a package](tutorials/create-a-package.md)
-  * [Create a scenario](tutorials/create-a-scenario.md)
+  * [Create a scenario](tutorials/create-and-work-with-scenarios.md)
   * [Subscribing title by title](tutorials/subscribing-title-by-title.md)
   * [Set scenario parameters](tutorials/set-scenario-parameters.md)
   * [Comparing scenarios](tutorials/comparing-scenarios.md)

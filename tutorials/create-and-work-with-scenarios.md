@@ -1,4 +1,4 @@
-# Create and work with scenarios
+# Create a scenario
 
 {% hint style="warning" %}
 Have you created a package yet? If not go [do that now](create-a-package.md).
