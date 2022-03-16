@@ -26,3 +26,8 @@ Our tutorials start with logging in to Unsub. After logging in you'll want to cr
   * Why compare scenarios?
   * What to compare
 * [Consortial dashboard](consortial-dashboard.md)
+
+We have created a video explaining how to log in and get started
+
+{% embed url="https://vimeo.com/433448412" %}
+

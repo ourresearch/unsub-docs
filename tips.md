@@ -1,12 +1,8 @@
 # Tips
 
-### Documentation <a href="#h_f666720dfd" id="h_f666720dfd"></a>
+### Searching for documentation <a href="#h_f666720dfd" id="h_f666720dfd"></a>
 
-We have created a video explaining how to log in and get started
-
-{% embed url="https://vimeo.com/433448412" %}
-
-Full-text search the Unsub documentation - click Search in the upper right of this page.
+You can full-text search the Unsub documentation - just click Search in the upper right of this page and type out a query.
 
 ### Unsub Mailing Lists <a href="#h_e291af921c" id="h_e291af921c"></a>
 
