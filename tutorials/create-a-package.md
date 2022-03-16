@@ -99,7 +99,7 @@ Check out [Set Big Deal cost and cost increase](../how-to-guides/set-big-deal-co
 
 ### 2.4 Perpetual access
 
-At this point you have filled out the three required data sections (COUNTER, Currency and Big Deal Costs). You can now exit package setup and [make a scenario](create-and-work-with-scenarios.md). However, for the purposes of this tutorial let us proceed with the two Recommended steps. Or, you can go on to scenarios and come back to this later.
+At this point you have filled out the three required data sections (COUNTER, Currency and Big Deal Costs). You can now exit package setup and [make a scenario](create-a-scenario.md). However, for the purposes of this tutorial let us proceed with the two Recommended steps. Or, you can go on to scenarios and come back to this later.
 
 Click on **PTA** on the left-hand side of the screen. You should see on your screen:
 
@@ -131,4 +131,4 @@ Once you have your title pricelist file upload it by navigating to the file on y
 
 ## What's Next?
 
-Now that you’ve created a package, the next step is to [create one or more scenarios within the package](create-and-work-with-scenarios.md)
+Now that you’ve created a package, the next step is to [create one or more scenarios within the package](create-a-scenario.md)
