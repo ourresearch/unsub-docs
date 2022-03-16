@@ -1,6 +1,6 @@
 # Copy a scenario
 
-If you already have a scenario, we recommend Copying a scenario instead of Adding a new one — a copied scenario copies all of the Parameter and Scenario settings so that you don't have to redo that work. To copy a scenario, on the Scenario page click the Copy icon to the right of the scenario name:
+If you already have a scenario, we recommend Copying a scenario instead of [Adding a new one](add-a-new-scenario.md) — a copied scenario copies all of the Parameter and Scenario settings so that you don't have to redo that work. To copy a scenario, on the Scenario page click the Copy icon to the right of the scenario name:
 
 ![](../.gitbook/assets/how-do-i-add-a-new-scenario-2.png)
 
