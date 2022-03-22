@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Tips](tips.md)
 * [Tutorials](tutorials/README.md)
   * [Logging in](tutorials/logging-in.md)
   * [Create a package](tutorials/create-a-package.md)
@@ -40,4 +39,4 @@
   * [Are turnaways counted as usage?](background/are-turnaways-counted-as-usage.md)
   * [Why don't I see a certain title in my dashboard?](background/why-dont-i-see-a-certain-title-in-my-dashboard.md)
   * [Why is my journal title-by-title price not what I set it to be?](background/why-is-my-journal-title-by-title-price-not-what-i-set-it-to-be.md)
-* [FAQ](faq.md)
+* [Troubleshooting](troubleshooting.md)
