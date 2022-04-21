@@ -10,7 +10,7 @@ Unsub provides a number of Parameters to let you customize a Scenario to your in
 
 Parameter values are stored as part of the scenario. Parameter values can be changed using the "Parameters" menu. You can make a new scenario that has the same parameter settings as a current scenario using Copy button to the right of the scenario title on a scenario page:
 
-![](../.gitbook/assets/first-scenario.png)
+![](../../.gitbook/assets/first-scenario.png)
 
 ### &#x20;<a href="#h_68ea9b794f" id="h_68ea9b794f"></a>
 

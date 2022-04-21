@@ -4,7 +4,7 @@ description: Titles with only turnaways may show up in your dashboard
 
 # Turnaways
 
-Unsub modeling uses many parameters, [many of which are user-configurable](scenario-parameters.md). One of the many parameters we use is turnaways data.
+Unsub modeling uses many parameters, [many of which are user-configurable](scenarios/scenario-parameters.md). One of the many parameters we use is turnaways data.
 
 COUNTER 5 includes turnaways data in the TR\_J2 file (named "Journal Access Denied").
 

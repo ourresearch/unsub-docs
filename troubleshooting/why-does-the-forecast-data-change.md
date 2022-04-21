@@ -1,6 +1,4 @@
-# Forecast changes
-
-### Why does the forecast data change?
+# Why does the forecast data change?
 
 Regular data updates are a normal part of the system -- we are constantly improving both the source data and the math that goes into the model.
 

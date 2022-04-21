@@ -50,7 +50,7 @@ Comparing the two images above, you can see that cost has changed, with higher I
 
 
 
-For a description of each scenario parameter see our article on [Scenario parameters](../reference/scenario-parameters.md).
+For a description of each scenario parameter see our article on [Scenario parameters](../reference/scenarios/scenario-parameters.md).
 
 ## **What's Next?**
 
