@@ -24,7 +24,6 @@
   * [Scenarios](reference/scenarios/README.md)
     * [High level overview](reference/scenarios/high-level-overview.md)
     * [Scenario Parameters](reference/scenarios/scenario-parameters.md)
-    * [Page 1](reference/scenarios/page-1.md)
   * [Cost per use (CPU)](reference/cost-per-use-cpu.md)
   * [Data export](reference/data-export.md)
   * [Turnaways](reference/turnaways.md)
