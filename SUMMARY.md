@@ -42,4 +42,6 @@
   * [Why is my journal title-by-title price not what I set it to be?](troubleshooting/why-is-my-journal-title-by-title-price-not-what-i-set-it-to-be.md)
   * [What’s the right amount of titles to subscribe to?](troubleshooting/whats-the-right-amount-of-titles-to-subscribe-to.md)
   * [Where does the citation and authorship data come from?](troubleshooting/where-does-the-citation-and-authorship-data-come-from.md)
+  * [How do you calculate the open access portion of the forecast?](troubleshooting/how-do-you-calculate-the-open-access-portion-of-the-forecast.md)
+  * [Does this work for consortia?](troubleshooting/does-this-work-for-consortia.md)
 * [Webinars](webinars.md)
