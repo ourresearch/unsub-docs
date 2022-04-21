@@ -40,4 +40,6 @@
 * [Troubleshooting](troubleshooting/README.md)
   * [Why don't I see a certain title in my dashboard?](troubleshooting/why-dont-i-see-a-certain-title-in-my-dashboard.md)
   * [Why is my journal title-by-title price not what I set it to be?](troubleshooting/why-is-my-journal-title-by-title-price-not-what-i-set-it-to-be.md)
+  * [What’s the right amount of titles to subscribe to?](troubleshooting/whats-the-right-amount-of-titles-to-subscribe-to.md)
+  * [Where does the citation and authorship data come from?](troubleshooting/where-does-the-citation-and-authorship-data-come-from.md)
 * [Webinars](webinars.md)
