@@ -30,6 +30,10 @@ We strongly recommend you sign up for these two google groups:
 * [Unsub Announce](https://groups.google.com/forum/#!forum/unsub-announce) for important data and user interface updates
 * [Unsub Discuss](https://groups.google.com/forum/#!forum/unsub-discuss) for user discussion
 
+### Webinars and videos <a href="#h_8caedea2e7" id="h_8caedea2e7"></a>
+
+Check out our [Webinars](webinars.md) page for information about any upcoming webinars as well as links to webinar recordings.
+
 ### Feedback <a href="#h_8caedea2e7" id="h_8caedea2e7"></a>
 
 Don't hesitate to reach out to us ([support@unsub.org](mailto:support@unsub.org)) with questions or thoughts on Unsub itself, or any aspect of Unsub that could be better documented. We'd love your feedback!

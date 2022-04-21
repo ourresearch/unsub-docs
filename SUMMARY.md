@@ -40,3 +40,4 @@
 * [Troubleshooting](troubleshooting/README.md)
   * [Why don't I see a certain title in my dashboard?](troubleshooting/why-dont-i-see-a-certain-title-in-my-dashboard.md)
   * [Why is my journal title-by-title price not what I set it to be?](troubleshooting/why-is-my-journal-title-by-title-price-not-what-i-set-it-to-be.md)
+* [Webinars](webinars.md)
