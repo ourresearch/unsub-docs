@@ -16,7 +16,7 @@ You can see the source of price data for each journal by going to your instituti
 
 We can see at the top that there are 180 Journals with no price data, and 1,752 journals with price data from the default public price list.
 
-To see which journals are missing prices, so that you can ask your Sales Rep for the pricelist, click "View Missing Titles" on the warning box. This will download a spreadsheet with the ISSNs, Titles, and an approximate sum of your COUNTER data for that title so that you know how important it is to you to make sure you get the price reflected in your Unsub dashboard.
+To see which journals are missing prices, so that you can ask your Sales Rep for the pricelist, click "View Missing Titles" on the warning box. This will download a spreadsheet with the ISSNs, Titles, and an approximate sum of your COUNTER data for that title (column named "counter\_total") so that you know how important it is to you to make sure you get the price reflected in your Unsub dashboard. The "counter\_total" column includes only data from your COUNTER reports; it does not include citations or authorships data that you see in the Unsub dashboard. &#x20;
 
 Once you have your price data available, the format needed for Unsub is really simple. It just needs two columns: **ISSN** and **Price**. You include a row for every journal where you have a custom price to set. The prices are interpreted in the Currency you set in your Package Setup (currency symbols are ignored). The file needs to be in .csv, .xlsx, or .xls format with just one sheet. Files can not contain formulas or other non value contents. We don't currently handle files that have non-value contents like formulas. Here's an example:
 
