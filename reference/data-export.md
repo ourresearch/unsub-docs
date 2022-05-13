@@ -10,6 +10,10 @@ The data fields in the Download as Spreadsheet are described here:
 
 ### Metadata <a href="#metadata" id="metadata"></a>
 
+**issn\_l\_prefixed**
+
+The primary ISSN we use for this journal (see issn.org [Linking ISSNs](https://www.issn.org/understanding-the-issn/assignment-rules/the-issn-l-for-publications-on-multiple-media/)) prefixed with "issn:"
+
 **issn\_l**
 
 The primary ISSN we use for this journal (see issn.org [Linking ISSNs](https://www.issn.org/understanding-the-issn/assignment-rules/the-issn-l-for-publications-on-multiple-media/))
@@ -18,32 +22,37 @@ The primary ISSN we use for this journal (see issn.org [Linking ISSNs](https://w
 
 The title of this journal.
 
+**issns**
+
+A JSON array of ISSNs for this journal
+
 **subject**
 
-The Elsevier-assigned Subject. Will be deleted soon, in favor of era\_subjects (below).
+A single OpenAlex subject. The subject is selected by filtering to level zero OpenAlex subjects, then selecting those with the maximum score. If there's more than one subject we then select one subject alphabetically, starting from "A". You may also want to look at **subject\_top\_three** due to this alphabetical selection. See [OpenAlex docs](https://docs.openalex.org/about-the-data/venue#x\_concepts) for more information.
 
-**era\_subject**
+**subject\_top\_three**
 
-Subjects assigned to the journal by Excellence in Research for Australia (ERA) \[[source](https://www.arc.gov.au/excellence-research-australia/era-2018-journal-list)].
+The top three OpenAlex subjects. Selected using the top three level zero subjects based on their score for strength of association between the journal and the subject. See [OpenAlex docs](https://docs.openalex.org/about-the-data/venue#x\_concepts) for more information.
+
+**subjects\_all**
+
+All level zero OpenAlex subjects and their IDs in a JSON array. With the IDs one can look up more information on each subject by appending the ID to `https://openalex.org` (e.g., [https://openalex.org/C185592680](https://openalex.org/C185592680)). See [OpenAlex docs](https://docs.openalex.org/about-the-data/venue#x\_concepts) for more information.
+
+
+
+{% hint style="info" %}
+OpenAlex uses the term "concept" - which is equivalent to "subject" here
+{% endhint %}
 
 ### Summary <a href="#summary" id="summary"></a>
 
-**cpu**
-
-This is the Cost per Use (CPU) of the journal. We use a more advanced variant of CPU (internally we call this Net Per Paid Use, or NCPPU). This CPU calculation is the net cost (subscription minus ILL), divided by Paid Use (Usage that can't be met with free sources). This is our most important measure of journal value--it summarizes the real value you're getting for your subscription dollar. This article has more details: [How do we calculate cost-effectiveness (Cost Per Use, CPU)](https://intercom.help/get-unsub/en/articles/4061107-how-do-we-calculate-cost-effectiveness-cost-per-use-cpu)
-
-**cpu\_rank**
-
-The journal's rank according to CPU, relative to other journals in this dataset. The most cost-effective journal has a rank of 1.\
-
-
 **subscribed**
 
-TRUE if you currently have the journal modeled as "subscribed" in your scenario, FALSE if the journal is currently "unsubscribed"
+`True` if you currently have the journal modeled as "subscribed" in your scenario, `False` if the journal is currently "unsubscribed"
 
-**cost**
+**is\_society\_journal**
 
-The cost of this journal according to the Settings and Subscription status of the journals in this Scenario. It will be either Subscription Cost or ILL Cost (see next columns), depending on whether the journal is currently subscribed to or not in this scenario.
+`True` if the journal is a society journal; `False` if not.
 
 **usage**
 
@@ -56,6 +65,21 @@ The projected Usage of the journal by your institution. Usage is a measure of th
 `+ (Citations to the journal by your authors) * (citation weight)`
 
 `+ (Authored papers in the journal) * (authorship weight)`
+
+**cpu**
+
+This is the Cost per Use (CPU) of the journal. We use a more advanced variant of CPU (internally we call this Net Per Paid Use, or NCPPU). This CPU calculation is the net cost (subscription minus ILL), divided by Paid Use (Usage that can't be met with free sources). This is our most important measure of journal value--it summarizes the real value you're getting for your subscription dollar. This article has more details: [How do we calculate cost-effectiveness (Cost Per Use, CPU)](https://intercom.help/get-unsub/en/articles/4061107-how-do-we-calculate-cost-effectiveness-cost-per-use-cpu)
+
+**cpu\_rank**
+
+The journal's rank according to CPU, relative to other journals in this dataset. The most cost-effective journal has a rank of 1.\
+
+
+**cost**
+
+The cost of this journal according to the Settings and Subscription status of the journals in this Scenario. It will be either Subscription Cost or ILL Cost (see next columns), depending on whether the journal is currently subscribed to or not in this scenario.
+
+****
 
 **instant\_usage\_percent**
 
@@ -105,41 +129,18 @@ Percent of Usage that is fulfilled via ILL in this scenario. This is simply turn
 
 Percent of Usage that is fulfilled via Unknown paths in this scenario. This all Usage that isn't fulfilled by Open Access, PTA rights, title-by-title subscription or ILL. Instead, the user fulfills their information need some other way -- asks the author for a paper, asks a colleague, finds another similar paper that is good enough for their purposes, etc.
 
-**perpetual\_access\_years**
+**perpetual\_access\_years\_text**
 
-The years when your institution has PTA (Post-Termination Access) to this title. Defaults to none.
+The years when your institution has PTA (Post-Termination Access) to this title. Default: empty.
 
 \
-**baseline\_access**
+**baseline\_access\_text**
 
 Optional text for those who have already left their Big Deals, to annotate which journals they'd previously subscribed to.
 
 **bronze\_oa\_embargo\_months**
 
 For some journals the publisher automatically makes the content free to read after a certain number of months. For those journals, this column lists the age of the articles (in months) when they will automatically become free to read on the publisher's site.
-
-### OA Types <a href="#oa-types" id="oa-types"></a>
-
-**use\_green\_percent**
-
-The percent of Usage that can be fulfilled via Green OA. This is Open Access hosted on open repositories, like Harvard's institutional repository, arXiv, or PMC. Green OA that hasn't been peer-reviewed (preprints, submitted drafts, etc) can be excluded in the Parameters.
-
-**use\_hybrid\_percent**
-
-The percent of Usage that can be fulfilled via Hybrid OA. This is Open Access hosted on the publisher site with an open license in an otherwise subscription journal. Usually an APC was paid by the authors when they published this paper.
-
-**use\_bronze\_percent**
-
-The percent of Usage that can be fulfilled via Bronze OA. This is Open Access hosted on the publisher site in an otherwise subscription journal, but unlike Hybrid it does not have an open license. It is sometimes promotional material, and sometimes open after an embargo in a Delayed OA journal (like Elsevier's Open Archive content). Bronze OA can be excluded in the Parameters.
-
-**use\_asns\_percent**
-
-The percent of Usage that can be fulfilled via Academic Social Networks like ResearchGate and Academia.edu. These are not considered open repositories, so papers hosted here are not considered Open Access. These can be excluded in the settings.
-
-**use\_peer\_reviewed\_percent**
-
-Percent of Usage that can be fulfilled via a peer-reviewed full-text copy of the article. This includes all of Hybrid and Bronze, and the portion of Green OA that is an Accepted or Published version of the paper. Green OA that hasn't been peer-reviewed (preprints, submitted drafts, etc) can be excluded in the Parameters.\
-
 
 ### &#x20;Usage Components <a href="#usage-components" id="usage-components"></a>
 
