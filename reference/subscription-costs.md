@@ -2,7 +2,7 @@
 
 The Unsub dashboard requires a subscription.
 
-Although our code is [open source](https://github.com/ourresearch/get-unsub), it costs money for us to maintain and operate the service; the subscription fee offsets that cost, keeping [our nonprofit](https://ourresearch.org) sustainable.
+Although our code is [open source](https://github.com/ourresearch/get-unsub), it costs money for us to maintain and operate the service; the subscription fee offsets that cost, keeping [our nonprofit](https://ourresearch.org/) sustainable.
 
 Our support model is based on the size of your library's current annual budget for materials (print and electronic serials, books, and so forth).
 

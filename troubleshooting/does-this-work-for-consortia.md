@@ -1,6 +1,6 @@
 # Does this work for consortia?
 
-Yes! We have a number of consortia that use Unsub, including JISC ([Joint Information Systems Committee](https://www.jisc.ac.uk)) and CRKN ([Canadian Research Knowledge Network](https://www.crkn-rcdr.ca)). We also have groups of institutions that use Unsub that are are not official consortia, but are, for example, most of the universities in a small country.
+Yes! We have a number of consortia that use Unsub, including JISC ([Joint Information Systems Committee](https://www.jisc.ac.uk/)) and CRKN ([Canadian Research Knowledge Network](https://www.crkn-rcdr.ca/)). We also have groups of institutions that use Unsub that are are not official consortia, but are, for example, most of the universities in a small country.
 
 There are a few different Unsub set up scenarios to fit different use cases involving groups of institutions:&#x20;
 
