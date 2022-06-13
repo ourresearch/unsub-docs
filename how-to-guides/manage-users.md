@@ -20,3 +20,7 @@ There are four permissions levels:
 * **Unaffiliated**: Can't access your institution's account at all.
 
 We'll send this person an email with instructions on how to create their new account. Once they sign in, they'll automatically be granted access to your account, at the permissions level you chose.
+
+### Deleting / Removing a user
+
+There isn't currently an Unsub dashboard button for deleting/removing a user, but to achieve the result simply change the permission level for the user to **Unaffiliated.** After this change, they will no longer have access to your Unsub account.&#x20;
