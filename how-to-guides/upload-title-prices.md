@@ -28,4 +28,4 @@ To upload, just click the Upload button, then click the Paperclip, find your fil
 
 If you want to see the prices you have uploaded, or see the public pricelist, you can click the download button the the far right of the file rows. If you'd like to replace your Custom journal pricelist, click the garbage can to the right of the file row and then upload your new file.
 
-Note that Unsub only supports pricing at the single-journal level. For more on how to address mini-bundle pricing [see this article](http://help.unsub.org/en/articles/4988087-how-to-handle-mini-bundle-pricing).
+Note that Unsub only supports pricing at the single-journal level. For more on how to address mini-bundle pricing see [this article](mini-bundle-pricing.md).

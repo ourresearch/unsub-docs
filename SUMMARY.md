@@ -17,6 +17,7 @@
   * [Set Big Deal costs](how-to-guides/set-big-deal-costs.md)
   * [Upload PTA data](how-to-guides/upload-pta-data.md)
   * [Upload title prices](how-to-guides/upload-title-prices.md)
+  * [Mini bundle pricing](how-to-guides/mini-bundle-pricing.md)
   * [Add a new scenario](how-to-guides/add-a-new-scenario.md)
   * [Copy a scenario](how-to-guides/copy-a-scenario.md)
   * [Post-termination access data](how-to-guides/post-termination-access-data.md)
