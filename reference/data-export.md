@@ -160,7 +160,9 @@ The number of papers in this journal that have at least one author from your ins
 
 #### **\*\_fuzzed** <a href="#fuzzed" id="fuzzed"></a>
 
-We include a few "fuzzed" columns, in case you want to share this data approximately but not exactly. We've broken the values into three groups of approximately the same size, and labelled them low, medium, and high.\
+We include a few "fuzzed" columns, in case you want to share this data approximately but not exactly. For each column that's fuzzed, we ranked all the values in a column, then separated the values into three equal sized groups, and labelled them low, medium, and high. Low refers to the lowest value by rank, high refers to the highest value by rank, and medium in the middle. Where there is no value for the un-fuzzed value, we use a dash ("-").
+
+If you want more fine grained resolution among titles you can refer to the un-fuzzed columns.\
 
 
 \
