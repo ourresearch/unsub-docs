@@ -46,4 +46,5 @@
   * [Does this work for consortia?](troubleshooting/does-this-work-for-consortia.md)
   * [Why does the forecast data change?](troubleshooting/why-does-the-forecast-data-change.md)
   * [What does the "Missing PTA" warning mean?](troubleshooting/what-does-the-missing-pta-warning-mean.md)
+  * [What does the "Missing Prices" warning mean?](troubleshooting/what-does-the-missing-prices-warning-mean.md)
 * [Webinars](webinars.md)
