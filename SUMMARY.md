@@ -45,4 +45,5 @@
   * [How do you calculate the open access portion of the forecast?](troubleshooting/how-do-you-calculate-the-open-access-portion-of-the-forecast.md)
   * [Does this work for consortia?](troubleshooting/does-this-work-for-consortia.md)
   * [Why does the forecast data change?](troubleshooting/why-does-the-forecast-data-change.md)
+  * [What does the "Missing PTA" warning mean?](troubleshooting/what-does-the-missing-pta-warning-mean.md)
 * [Webinars](webinars.md)
