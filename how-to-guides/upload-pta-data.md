@@ -33,6 +33,11 @@ To upload your file, click the Paperclip, then find your file and select it, the
 
 Looking at the "Your PTA file" section, we can see there are now 373 journals where the model will using our custom date ranges. You can click on the download arrow to the far right to view the journals and the ranges being used.
 
-If you'd like to replace this data later you can click the Trash can to the right of the row and then upload a new file — your scenario forecasts will automatically recalculate to use the new data.\
+If you'd like to replace this data later you can click the Trash can to the right of the row and then upload a new file — your scenario forecasts will automatically recalculate to use the new data.
 
+### A few things to be aware of related to PTA in Unsub
 
+* Unsub forecasts only use PTA back to 2012. If you have PTA start dates before 2012, we will not use them. There's no need to edit your PTA file - just be aware that start dates prior to 2012 will be converted to 2012.&#x20;
+* For PTA end dates that are ongoing (blank) or greater than the current year (e.g. 2023 if the year is 2022), we will set the end date to be the current year minus one. For example, if your PTA end date for a title is blank, 2022, or any year greater than 2022, the end date you'll see for that title will be 2021.&#x20;
+
+\
