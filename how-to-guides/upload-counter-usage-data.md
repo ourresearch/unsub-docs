@@ -32,6 +32,6 @@ The upload and processing will take several minutes... some of these files are b
 
 You can click on the download arrows to the far right of each file to see what we have stored. If you'd like to replace this data later you can click the Trash can to the right of the row and then upload a new file — your scenario forecasts will automatically recalculate to use the new data.
 
-Note that because COUNTER files include Open Access journals, journals that have stopped publishing, and journals that have moved to a different publisher, not all of the journals in your COUNTER files will appear in your Forecast dashboards. Furthermore, if you are missing price data, those journals will be missing even if they are currently publishing and have COUNTER usage ([see here to correct this](http://help.unsub.org/en/articles/4203886-how-do-i-upload-a-custom-title-by-title-journal-pricelist)).
+Note that because COUNTER files include Open Access journals, journals that have stopped publishing, and journals that have moved to a different publisher, not all of the journals in your COUNTER files will appear in your Forecast dashboards. Furthermore, if you are missing price data, those journals will be missing even if they are currently publishing and have COUNTER usage ([see here to correct this](upload-title-prices.md)).
 
 \
