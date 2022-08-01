@@ -25,4 +25,4 @@ If you're not able to determine your library materials budget, use your best est
 
 If your budget isn't in US Dollars, convert it from your local currency into USD and then use the chart above as usual. Some folks like to use the average exchange rate over the last year, while others prefer to use today's rate; either is fine by us.
 
-If you're looking to get a quote for a consortium, rather than a single institution, then please get in touch with us, either by email ([team@ourresearch.org](mailto:team@ourresearch.org)) or the blue button at the bottom right of your screen.
+If you're looking to get a quote for a consortium, rather than a single institution, see the [Consortium Dashboard](consortium-dashboard.md) page.

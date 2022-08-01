@@ -1,7 +1,7 @@
 # Logging in
 
 {% hint style="warning" %}
-You need to be a [paid subscriber](../reference/subscription-costs.md) before being able to login
+You need to be a [paid subscriber](../reference/pricing/subscription-costs.md) before being able to login
 {% endhint %}
 
 ### Login
