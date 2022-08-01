@@ -30,8 +30,6 @@
   * [Data export](reference/data-export.md)
   * [Turnaways](reference/turnaways.md)
   * [ROR: Research Organization Registry](reference/ror-research-organization-registry.md)
-  * [Affiliation data](reference/affiliation-data.md)
-  * [Citation data](reference/citation-data.md)
 * [How it works](how-it-works/README.md)
   * [How do we calculate your OA Publish spend?](how-it-works/how-do-we-calculate-your-oa-publish-spend.md)
   * [Where do we get Year of Publication data for PTA and open access calculations?](how-it-works/where-do-we-get-year-of-publication-data-for-pta-and-open-access-calculations.md)

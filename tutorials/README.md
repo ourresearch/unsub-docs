@@ -22,7 +22,7 @@ Our tutorials start with logging in to Unsub. After logging in you'll want to cr
   * Clicking to subscribe to titles
   * Table view
 * [Set scenario parameters](set-scenario-parameters.md)
-* [Compare scenarios](comparing-scenarios.md)
+* [Comparing scenarios](comparing-scenarios.md)
   * Why compare scenarios?
   * What to compare
 * [Consortial dashboard](consortial-dashboard.md)
@@ -31,3 +31,4 @@ We have created a video explaining how to log in and get started
 
 {% embed url="https://vimeo.com/433448412" %}
 
+Please let us know if you have any feedback on these articles or have ideas for new articles at [support@unsub.org](mailto:support@unsub.org)

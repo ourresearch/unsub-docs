@@ -13,9 +13,7 @@ This documentation is separated into four major sections oriented towards your l
 * [Tutorials](tutorials/): Easy to follow step by step guides to getting started with Unsub. For example, [Create a package](tutorials/create-a-package.md)
 * [How-to guides](how-to-guides/): Guides on solving specific problems. For example, [Upload title prices](how-to-guides/upload-title-prices.md)
 * [Reference](reference/): Technical information about components of Unsub. For example, [Scenario parameters](reference/scenarios/scenario-parameters.md)
-* [Background](how-it-works/): In depth articles geared towards understanding why. For example, [Are turnaways counted as usage?](reference/turnaways.md)
-
-
+* [How it works](how-it-works/): In depth articles geared towards understanding why. For example, [Where do the APC prices come from?](how-it-works/where-do-the-apc-prices-come-from.md)
 
 ### Searching for documentation <a href="#h_f666720dfd" id="h_f666720dfd"></a>
 

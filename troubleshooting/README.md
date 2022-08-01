@@ -1,10 +1,5 @@
 # Troubleshooting
 
-* [Why don't I see a certain title in my dashboard?](why-dont-i-see-a-certain-title-in-my-dashboard.md)
-* [Why is my journal title-by-title price not what I set it to be?](why-is-my-journal-title-by-title-price-not-what-i-set-it-to-be.md)
-* [What’s the right amount of titles to subscribe to?](whats-the-right-amount-of-titles-to-subscribe-to.md)
-* [Where does the citation and authorship data come from?](where-does-the-citation-and-authorship-data-come-from.md)
-* [How do you calculate the open access portion of the forecast?](how-do-you-calculate-the-open-access-portion-of-the-forecast.md)
-* [Does this work for consortia?](does-this-work-for-consortia.md)
-* [Why does the forecast data change?](why-does-the-forecast-data-change.md)
-* [What does the "Missing PTA" warning mean?](what-does-the-missing-pta-warning-mean.md)
+This section has articles with more technically oriented content. That is, each article explains some topic or concept in depth, getting "into the weeds".
+
+Please let us know if you have any feedback on these articles or have ideas for new articles at [support@unsub.org](mailto:support@unsub.org)
