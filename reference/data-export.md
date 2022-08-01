@@ -123,7 +123,7 @@ Percent of Usage that can be fulfilled ONLY via title-by-title subscription in t
 
 **use\_ill\_percent**
 
-Percent of Usage that is fulfilled via ILL in this scenario. This is simply turnaways (Usage that can't be fulfilled by Open Access, PTA, or your title-by-title subscriptions) multiplied by your ILL Request Rate parameter. This article has more details: [How do we calculate ILL requests and ILL cost?](https://intercom.help/get-unsub/en/articles/4061177-how-do-we-calculate-ill-requests-and-ill-cost)
+Percent of Usage that is fulfilled via ILL in this scenario. This is simply turnaways (Usage that can't be fulfilled by Open Access, PTA, or your title-by-title subscriptions) multiplied by your ILL Request Rate parameter. This article has more details: [How do we calculate ILL requests and ILL cost?](../how-it-works/how-do-we-calculate-ill-requests-and-ill-cost.md)
 
 **use\_other\_delayed\_percent**
 
