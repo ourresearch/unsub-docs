@@ -10,17 +10,8 @@ Our tutorials start with logging in to Unsub. After logging in you'll want to cr
 
 * [Logging in to Unsub](logging-in.md)
 * [Create a package](create-a-package.md)
-  * [Create a new package](create-a-package.md#1-create-a-new-package)
-  * [Setup your package](create-a-package.md#2-setup-your-package)
 * [Create a scenario](create-and-work-with-scenarios.md)
-  * [Create a new scenario](create-and-work-with-scenarios.md#1-create-a-new-scenario)
-  * [Set scenario parameters](create-and-work-with-scenarios.md#2-set-parameters-for-a-scenario)
-  * [Subscribe title by title](create-and-work-with-scenarios.md#3-subscribe-title-by-title)
 * [Subscribing title by title](subscribing-title-by-title.md)
-  * Setting the scene
-  * Subscribe by cost per use (CPU)
-  * Clicking to subscribe to titles
-  * Table view
 * [Set scenario parameters](set-scenario-parameters.md)
 * [Comparing scenarios](comparing-scenarios.md)
 * [Consortial dashboard](consortial-dashboard.md)
