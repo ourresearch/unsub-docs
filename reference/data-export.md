@@ -96,11 +96,11 @@ The percent of Usage that can be fulfilled via Open Access or PTA. This excludes
 
 **subscription\_cost**
 
-The title-by-title subscription cost of this journal. It includes a 'content fee' based on your settings, and annual price increases over the next five years (the cost shown is the average cost over the next five years). This data is based on public price lists unless you've uploaded a custom price list (available in a purchased account). This article has more details: [How do we calculate title-by-title subscription costs?](http://help.unsub.org/en/articles/4073469-how-do-we-calculate-title-by-title-subscription-costs)
+The title-by-title subscription cost of this journal. It includes a 'content fee' based on your settings, and annual price increases over the next five years (the cost shown is the average cost over the next five years). This data is based on public price lists unless you've uploaded a custom price list (available in a purchased account). This article has more details: [How do we calculate title-by-title subscription costs?](../how-it-works/how-do-we-calculate-title-by-title-subscription-costs.md)
 
 **ill\_cost**
 
-The ILL subscription cost of this journal. It is based on the ILL transaction cost and your ILL Request Rate, both of which are adjustable parameters. This article has more details: [How do we calculate ILL requests and ILL cost?](https://intercom.help/get-unsub/en/articles/4061177-how-do-we-calculate-ill-requests-and-ill-cost)
+The ILL subscription cost of this journal. It is based on the ILL transaction cost and your ILL Request Rate, both of which are adjustable parameters. This article has more details: [How do we calculate ILL requests and ILL cost?](../how-it-works/how-do-we-calculate-ill-requests-and-ill-cost.md)
 
 **subscription\_minus\_ill\_cost**
 
