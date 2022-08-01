@@ -30,7 +30,7 @@ We strongly recommend you sign up for these two google groups:
 
 ### Webinars and videos <a href="#h_8caedea2e7" id="h_8caedea2e7"></a>
 
-Check out our [Webinars](webinars.md) page for information about any upcoming webinars as well as links to webinar recordings.
+Check out our [Webinars](learning-resources.md) page for information about any upcoming webinars as well as links to webinar recordings.
 
 ### Feedback <a href="#h_8caedea2e7" id="h_8caedea2e7"></a>
 
