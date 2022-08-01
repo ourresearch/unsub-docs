@@ -23,8 +23,6 @@ Our tutorials start with logging in to Unsub. After logging in you'll want to cr
   * Table view
 * [Set scenario parameters](set-scenario-parameters.md)
 * [Comparing scenarios](comparing-scenarios.md)
-  * Why compare scenarios?
-  * What to compare
 * [Consortial dashboard](consortial-dashboard.md)
 
 We have created a video explaining how to log in and get started
