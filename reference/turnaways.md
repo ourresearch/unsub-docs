@@ -8,7 +8,7 @@ Unsub modeling uses many parameters, [many of which are user-configurable](scena
 
 COUNTER 5 includes turnaways data in the TR\_J2 file (named "Journal Access Denied").
 
-We include all titles in the TR\_J2 file that have data for the metric **No\_License** unless they fall into one of the [exceptions explained here](broken-reference).
+We include all titles in the TR\_J2 file that have data for the metric **No\_License** unless they fall into one of the [exceptions explained here](../troubleshooting/why-dont-i-see-a-certain-title-in-my-dashboard.md).
 
 We include those titles because they are cases of people attempting to access the full-text of an article that were redirected to the abstract.
 
