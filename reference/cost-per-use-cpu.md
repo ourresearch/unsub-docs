@@ -16,7 +16,7 @@ Don't pay for free! When articles are available for free, usage of those article
 
 **Net Cost**
 
-The cost in NCPPU isn't just the subscription cost, because the alternative to subscribing doesn't cost $0. When libraries don't subscribe to a journal they still offer access to the journal via ILL, and this has a cost for the library. So we consider the cost to be the difference between the [projected subscription cost](https://intercom.help/get-unsub/en/articles/4073469-how-do-we-calculate-a-la-carte-subscription-costs) and the [projected ILL cost](https://intercom.help/get-unsub/en/articles/4061177-how-do-we-calculate-ill-requests-and-ill-cost), were the library to not subscribe.
+The cost in NCPPU isn't just the subscription cost, because the alternative to subscribing doesn't cost $0. When libraries don't subscribe to a journal they still offer access to the journal via ILL, and this has a cost for the library. So we consider the cost to be the difference between the [projected subscription cost](../how-it-works/how-do-we-calculate-title-by-title-subscription-costs.md) and the [projected ILL cost](../how-it-works/how-do-we-calculate-ill-requests-and-ill-cost.md), were the library to not subscribe.
 
 So that's what NCPPU is, and how we calculate Cost Per Use in Unsub! The net cost of subscription minus ILL, divided by weighted usage to articles which aren't available for free.
 
