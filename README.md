@@ -19,6 +19,10 @@ This documentation is separated into four major sections oriented towards your l
 
 You can full-text search the Unsub documentation - just click Search in the upper right of this page and type out a query.
 
+### Linking to documentation
+
+You can get the link to any page by copying the link in your browser. You can also get direct links to any headers. Go to the header of interest and hover your mouse over the far right side of the header and a link icon will appear. Click that link icon and the url will be copied to your clipboard.
+
 ### Unsub mailing lists <a href="#h_e291af921c" id="h_e291af921c"></a>
 
 When your Unsub account is setup, the email address associated with the account does not automatically receive any emails with Unsub announcements.

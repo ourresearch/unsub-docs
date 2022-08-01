@@ -1,9 +1,3 @@
----
-description: >-
-  Parameters let you customize a Scenario to your institution's environment and
-  to experiment with different assumptions about the future
----
-
 # Scenario Parameters
 
 Unsub provides a number of Parameters to let you customize a Scenario to your institution's environment and to experiment with different assumptions about the future.
