@@ -51,7 +51,6 @@
   * [What does the "Missing PTA" warning mean?](troubleshooting/what-does-the-missing-pta-warning-mean.md)
   * [What does the "Missing Prices" warning mean?](troubleshooting/what-does-the-missing-prices-warning-mean.md)
   * [How do I switch between University accounts?](troubleshooting/how-do-i-switch-between-university-accounts.md)
-  * [What publishers are supported?](troubleshooting/what-publishers-are-supported.md)
   * [About Unsub](troubleshooting/about-unsub/README.md)
     * [Does Unsub have an accessibility statement?](troubleshooting/about-unsub/does-unsub-have-an-accessibility-statement.md)
     * [How is Unsub different from Consortium Manager?](troubleshooting/about-unsub/how-is-unsub-different-from-consortium-manager.md)
