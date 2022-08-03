@@ -15,6 +15,8 @@ This documentation is separated into four major sections oriented towards your l
 * [Reference](reference/): Technical information about components of Unsub. For example, [Scenario parameters](reference/scenarios/scenario-parameters.md)
 * [How it works](how-it-works/): In depth articles geared towards understanding why. For example, [Where do the APC prices come from?](how-it-works/where-do-the-apc-prices-come-from.md)
 
+In addition, the [Troubleshooting](troubleshooting/) section contains answers to common questions about Unsub.
+
 ### Searching for documentation <a href="#h_f666720dfd" id="h_f666720dfd"></a>
 
 You can full-text search the Unsub documentation - just click Search in the upper right of this page and type out a query.
