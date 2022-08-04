@@ -30,4 +30,16 @@ You'll also see a tooltip if you hover over the subscribe or unsubscribe buttons
 
 ![Tooltip shown on hover over unsubscribe button: "Unsubscribe to all 128 selected journals"](../.gitbook/assets/search-box-tooltip-unsubscribe.png)
 
+
+
+After selecting the titles you're looking for, you can click the subscribe or unsubscribe icons. After clicking the icons you should see a change in your subscribed titles, whether it be adding or subtracting subscriptions.
+
+
+
+Here's a screen recording putting it all together:
+
+![](https://i.imgur.com/27zWND6.gif)
+
+
+
 You can delete your search text by clicking the X icon in the far right of the text box.
