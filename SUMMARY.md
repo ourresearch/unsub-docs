@@ -22,6 +22,7 @@
   * [Copy a scenario](how-to-guides/copy-a-scenario.md)
   * [Post-termination access data](how-to-guides/post-termination-access-data.md)
   * [Select journals](how-to-guides/select-journals.md)
+  * [Bulk subscribe/unsubscribe](how-to-guides/bulk-subscribe-unsubscribe.md)
 * [Reference](reference/README.md)
   * [Pricing](reference/pricing/README.md)
     * [Subscription costs](reference/subscription-costs.md)

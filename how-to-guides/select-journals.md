@@ -1,32 +1,22 @@
----
-description: Bulk subscribe or unsubscribe to journals
----
-
 # Select journals
 
-In the upper right of your Unsub dashboard (scenario) you will see:
+In the upper right of your Unsub dashboard (scenario) you will see a search/select box.&#x20;
 
-* A search/select box
-* A subscribe button - a shopping cart icon with a DOWN arrow
-* An unsubscribe button - a shopping cart icon with an UP arrow&#x20;
 
-Note: The eye icon is for toggling between histogram and table view (and isn't related to the topic of this article)
 
-When there are no journals selected (see image below):&#x20;
+You can use this feature of Unsub for a few use cases:
 
-* The subscribe and unsubscribe buttons are disabled (greyed out, you can not click on them and you don't get a tooltip when hovering over them)
+1. Find journals in your dashboard matching a text string, e.g., "science". This searches journal titles only
+2. Find journals in your dashboard matching a comma separated list of ISSNs, e.g, "1878-8750,1876-2018,2468-6964"
 
-![The dashboard without any input text.](../.gitbook/assets/search-box-empty.png)
 
-When you do have journals selected due to text you've entered (see image below):&#x20;
 
-* The grey text below the box will display the number of journals selected (e.g., "128 selected"). This is the total number selected, combining any that you can subscribe to and any to which you can unsubscribe&#x20;
-* The subscribe and unsubscribe buttons will become blue and grey, respectively, if there are any journals to which you can subscribe or unsubscribe.&#x20;
+When you have journals selected due to text you've entered (see image below):&#x20;
 
-![Example of what the dashboard looks like when input text selects a subset of journals in your dashboard.](../.gitbook/assets/search-box-searched-sub-and-unsub.png)
+* The grey text below the box will display the total number of journals selected (e.g., "128 selected").
+* In histogram view, the journals selected in the histogram will retain their original colors, while the unselected journals will fade to a light grey - making the selected journals easier to pick out
+* In table view, the table will be filtered to only the journals selected
 
-You'll also see a tooltip if you hover over the subscribe or unsubscribe buttons (see last image below)
+![](../.gitbook/assets/search-select-box.png)
 
-![Tooltip shown on hover over subscribe button: "Subscribe to all 99 selected journals".](../.gitbook/assets/search-box-tooltip-subscribe.png)
-
-![Tooltip shown on hover over unsubscribe button: "Unsubscribe to all 32 selected journals"](../.gitbook/assets/search-box-tooltip-unsubscribe.png)
+The two icons to the right of the search/select box will be covered in the next article on [bulk subscribe/unsubscribe](bulk-subscribe-unsubscribe.md).
