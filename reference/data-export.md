@@ -26,23 +26,23 @@ The title of this journal.
 
 A JSON array of ISSNs for this journal
 
-**subject**
-
-A single OpenAlex subject. The subject is selected by filtering to level zero OpenAlex subjects, then selecting those with the maximum score. If there's more than one subject we then select one subject alphabetically, starting from "A". You may also want to look at **subject\_top\_three** due to this alphabetical selection. See [OpenAlex docs](https://docs.openalex.org/about-the-data/venue#x\_concepts) for more information.
-
-**subject\_top\_three**
-
-The top three OpenAlex subjects. Selected using the top three level zero subjects based on their score for strength of association between the journal and the subject. See [OpenAlex docs](https://docs.openalex.org/about-the-data/venue#x\_concepts) for more information.
-
-**subjects\_all**
-
-All level zero OpenAlex subjects and their IDs in a JSON array. With the IDs one can look up more information on each subject by appending the ID to `https://openalex.org` (e.g., [https://openalex.org/C185592680](https://openalex.org/C185592680)). See [OpenAlex docs](https://docs.openalex.org/about-the-data/venue#x\_concepts) for more information.
-
-
-
 {% hint style="info" %}
 OpenAlex uses the term "concept" - which is equivalent to "subject" here
 {% endhint %}
+
+**subject**
+
+A single OpenAlex concept (equivalent to subject in Unsub). The concept is selected by filtering to level zero OpenAlex concepts, then selecting those with the maximum score. If there's more than one concept we then select one alphabetically, starting from "A". You may also want to look at **subject\_top\_three** due to this alphabetical selection. See [OpenAlex docs](https://docs.openalex.org/about-the-data/venue#x\_concepts) for more information.
+
+**subject\_top\_three**
+
+The top three OpenAlex concepts. Selected using the top three level zero OpenAlex concepts based on their score for strength of association between the journal and the concept. See [OpenAlex docs](https://docs.openalex.org/about-the-data/venue#x\_concepts) for more information.
+
+**subjects\_all**
+
+All level zero OpenAlex concepts and their IDs in a JSON array. With the IDs one can look up more information on each concept by appending the ID to `https://openalex.org` (e.g., [https://openalex.org/C185592680](https://openalex.org/C185592680)). See [OpenAlex docs](https://docs.openalex.org/about-the-data/venue#x\_concepts) for more information.
+
+
 
 ### Summary <a href="#summary" id="summary"></a>
 
