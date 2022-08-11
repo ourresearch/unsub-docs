@@ -34,6 +34,7 @@
   * [Data export](reference/data-export.md)
   * [Turnaways](reference/turnaways.md)
   * [ROR: Research Organization Registry](reference/ror-research-organization-registry.md)
+  * [Single Journal View](reference/single-journal-view.md)
 * [How it works](how-it-works/README.md)
   * [How do we calculate your OA Publish spend?](how-it-works/how-do-we-calculate-your-oa-publish-spend.md)
   * [How do we calculate ILL requests and ILL cost?](how-it-works/how-do-we-calculate-ill-requests-and-ill-cost.md)
