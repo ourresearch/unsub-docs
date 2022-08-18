@@ -6,7 +6,7 @@ description: >-
 
 # How do we calculate ILL requests and ILL cost?
 
-Interlibrary Loan (ILL) is a key consideration in forecasting the effects of cancellation on fulfillment and cost. So naturally,, it's also an important part of Unsub's five-year forecasting approach, and is prominently displayed on your Scenario Overview page. To understand how we handle ILL, let's look at two parts of the equation: the expected number of **ILL requests** and the expected **ILL cost**.
+Interlibrary Loan (ILL) is a key consideration in forecasting the effects of cancellation on fulfillment and cost. So naturally it's also an important part of Unsub's five-year forecasting approach, and is prominently displayed on your Scenario Overview page. To understand how we handle ILL, let's look at two parts of the equation: the expected number of **ILL requests** and the expected **ILL cost**.
 
 ## Forecasting ILL requests <a href="#forecasting-ill-requests" id="forecasting-ill-requests"></a>
 

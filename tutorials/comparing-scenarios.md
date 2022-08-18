@@ -4,7 +4,7 @@
 Have you created a scenario yet? If not go [do that now](create-and-work-with-scenarios.md).
 {% endhint %}
 
-Within a publisher package you can have as many scenarios as you like.&#x20;
+Within an Unsub package you can have as many scenarios as you like.&#x20;
 
 Comparing different scenarios is a powerful way to compare different choices about subscribed titles and scenario parameters. Remember, scenarios within a package share the same COUNTER, PTA and title price data - those data do not differ among scenarios within a package.
 

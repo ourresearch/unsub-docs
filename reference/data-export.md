@@ -26,6 +26,10 @@ The title of this journal.
 
 A JSON array of ISSNs for this journal
 
+**publisher**
+
+The name of the publisher of the journal. "null" if we do not know the name of the publisher.
+
 {% hint style="info" %}
 OpenAlex uses the term "concept" - which is equivalent to "subject" here
 {% endhint %}

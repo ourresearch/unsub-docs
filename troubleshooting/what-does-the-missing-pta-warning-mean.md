@@ -14,4 +14,4 @@ If you haven't loaded in any PTA dates, we assume you don't have any Post-Termin
 
 To fix this warning: go to the Package page (you can click its name in the top left corner of your screen), then view the Setup tab, and finally select the "PTA" menu option. Then upload a file with your PTA dates. See [this article](../how-to-guides/upload-pta-data.md) for details on how to format and upload that PTA file.
 
-![Screenshot of the PTA setup page](../.gitbook/assets/missing-pta-warning-.png)
+![Screenshot of the PTA setup page](../.gitbook/assets/missing-pta-warning.png)

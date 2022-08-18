@@ -1,6 +1,6 @@
 # How do we calculate your OA Publish spend?
 
-**Note: The OA Publish page contains different journals than the Cancellation Scenarios.** It not only includes journals in your base COUNTER file, but \*all journals\* published by this publisher in which authors from your institution have published Open Access. Specifically, it includes Gold OA journals as well as subscription journals.
+**Note: The** [**APC Report**](../how-to-guides/apc-report.md) **contains different journals than the Scenarios.** It not only includes journals in your base COUNTER file, but \*all journals\* which authors from your institution have published Open Access. Specifically, it includes Gold OA journals as well as subscription journals.
 
 We have a 15 minute video that explains the calculations in detail [here](https://vimeo.com/417000352).
 
@@ -31,4 +31,4 @@ Usually the corresponding author of a paper is the one who pays its APC. We don'
 
 Our estimate of the APC dollars spent by your institution annually over the last five years. Calculated by multiplying the total fractional authorship by the APC price.
 
-The total publisher APC spend for the university is the sum of all APC dollars spent accross all journals from this publisher (all rows in this table).
+The total publisher APC spend for the university is the sum of all APC dollars spent across all journals (all rows in this table).

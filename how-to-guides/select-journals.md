@@ -17,6 +17,12 @@ When you have journals selected due to text you've entered (see image below):&#x
 * In histogram view, the journals selected in the histogram will retain their original colors, while the unselected journals will fade to a light grey - making the selected journals easier to pick out
 * In table view, the table will be filtered to only the journals selected
 
-![](../.gitbook/assets/search-select-box.png)
+![Select journals by using a comma separated list of ISSNs.](../.gitbook/assets/search-select-box.png)
 
 The two icons to the right of the search/select box will be covered in the next article on [bulk subscribe/unsubscribe](bulk-subscribe-unsubscribe.md).
+
+If your search text finds no matches in histogram view no titles (grey boxes) will be highlighted.
+
+If your search text finds no matches in table view you will see an alert like that below - you can click on the small circled question mark to get to this documentation page.
+
+![No results in table view gives an alert that brings you to this documentation page.](../.gitbook/assets/select-journals-no-matches-table-view.png)

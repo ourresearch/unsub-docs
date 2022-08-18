@@ -8,21 +8,13 @@ description: >-
 
 A key data source for Unsub is the title-by-title price for each journal--the actual real-world cost you'll pay, should you choose to subscribe to that journal individually outside any Big Deal.
 
-For any given journal, there are three possible **price sources** for the title-by-title price. There are also two **price modifiers** Unsub uses to fine-tune the forecast. Putting all that together lets us predict the annual price you'll pay over the next five years, _if_ you to subscribe to a given journal.
+For any given journal, there are two possible **price sources** for the title-by-title price. There are also two **price modifiers** Unsub uses to fine-tune the forecast. Putting all that together lets us predict the annual price you'll pay over the next five years, _if_ you to subscribe to a given journal.
 
 ### Price sources: <a href="#price-sources" id="price-sources"></a>
 
-**1. Public list price:** this is the title-by-title subscription price from the publisher's website. This is the default source of price information. Here are some examples of public pricelists that we use:
+**1. Custom uploaded price:** you can [upload a simple spreadsheet with custom prices for each journal](../how-to-guides/upload-title-prices.md). Any custom prices you upload will override the default list prices. This is also how to provide prices for journals without a default price.
 
-* [Elsevier](https://www.elsevier.com/books-and-journals/journal-pricing/print-price-list) (2021)
-* [Wiley](https://onlinelibrary.wiley.com/library-info/products/price-lists) (Academic, Medium FTE Tier, Online only prices, 2021)
-* [Springer Nature](https://www.springernature.com/gp/librarians/licensing/journals-price-list) (online only plus Carriage Charges, 2021)
-* [SAGE](https://us.sagepub.com/en-us/nam/institutional-subscriptions-to-individual-journal-titles) (Electronic+Backfile Lease, 2021)
-* [Taylor & Francis](https://taylorandfrancis.com/journals/price-lists/) (FTE 40000 - 49999, 2021)
-
-**2. Custom uploaded price:** you can [upload a simple spreadsheet with custom prices for each journal](../how-to-guides/upload-title-prices.md). Any custom prices you upload will override the default list prices. This is also how to provide prices for journals without a default price.
-
-**3. No price:** If we couldn't find a public list price for a journal, and you haven't uploaded a custom price for it, then the price is unknown. In that case, this journal will be _omitted from forecasting,_ because we don't know how they will affect the financial side of the model. Your scenario will show a warning.
+**2. No price:** If you haven't uploaded a custom price for a title, then the price is unknown. In that case, this journal will be _omitted from forecasting,_ because we don't know how they will affect the financial side of the model. Your scenario will show a warning.
 
 ### Price modifiers: <a href="#price-modifiers" id="price-modifiers"></a>
 
@@ -34,7 +26,7 @@ Once you've got prices, there are also two ways those prices can be modified.
 
 ### Putting it all together <a href="#putting-it-all-together" id="putting-it-all-together"></a>
 
-Let's look at an example of how this all fits together; we'll call it _Journal X_. First, we'll find the current price of a title-by-title subscription by looking it up in our price table. Let's say you've uploaded your own price of $1000, overriding the default publisher list price.
+Let's look at an example of how this all fits together; we'll call it _Journal X_. First, we'll find the current price of a title-by-title subscription by looking it up in our price table. Let's say you've uploaded a price of $1000.
 
 For year one of the five-year forecast, we'd predict you'll pay $1000 plus the 5.7% "content fee" of $57, for a total of $1,057.
 

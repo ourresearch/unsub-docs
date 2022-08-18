@@ -10,7 +10,7 @@ In this tutorial you will learn how to create and work with [scenarios](../refer
 
 If you are not already in a package, click on the package you created in the [Create a package tutorial](create-a-package.md) (or any other package in your account), and you should see
 
-![Unsub package view with no scenarios](../.gitbook/assets/packages-view-no-packages-yet.png)
+![Unsub package view with no scenarios](../.gitbook/assets/tutorial-create-a-scenario-new-scenario.png)
 
 From here, click on "**+ New scenario"**.
 
@@ -24,7 +24,7 @@ It will take a little while for the new scenario to be created. During scenario 
 
 Once it's complete you’ll be redirected to the new scenario, and you should see something generally like this. The details of every scenario vary widely depending on what you've done in your setup for the package, and your institution.&#x20;
 
-![Example scenario view](../.gitbook/assets/new-scenario.png)
+![Example scenario view](../.gitbook/assets/tutorial-create-a-scenario-scenario-created.png)
 
 See also: [How do I add a new scenario](../how-to-guides/add-a-new-scenario.md)?
 

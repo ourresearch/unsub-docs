@@ -12,9 +12,9 @@ Of course, this will vary, depending on the journal. In some fields (like math o
 
 Here's how.
 
-First, navigate to the publisher you're interested in, click the Setup tab, and scroll to the PTA section:
+First, navigate to the package you're interested in, click the Setup tab, and scroll to the PTA section:
 
-![Setup PTA](../.gitbook/assets/setup-pta-with-left-hand-side.png)
+![Setup PTA](../.gitbook/assets/pta-setup.png)
 
 As you can see, there is a warning that you are missing PTA data.
 

@@ -4,6 +4,6 @@ You can add a new Scenario to your Dashboard (so that you can compare different 
 
 To Add a scenario, click "+ New Scenario" on your scenarios list page:
 
-![](../.gitbook/assets/how-do-i-add-a-new-scenario-1.png)
+![Add a new scenario.](../.gitbook/assets/add-a-new-scenario.png)
 
 If you already have a scenario we recommend [Copying a scenario](copy-a-scenario.md) instead of adding a new one.
