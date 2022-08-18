@@ -56,6 +56,7 @@
   * [Why does the forecast data change?](troubleshooting/why-does-the-forecast-data-change.md)
   * [What does the "Missing PTA" warning mean?](troubleshooting/what-does-the-missing-pta-warning-mean.md)
   * [What does the "Missing Prices" warning mean?](troubleshooting/what-does-the-missing-prices-warning-mean.md)
+  * [What does the "Journal Whitelist" alert mean?](troubleshooting/what-does-the-journal-whitelist-alert-mean.md)
   * [How do I switch between University accounts?](troubleshooting/how-do-i-switch-between-university-accounts.md)
   * [What publishers are supported?](troubleshooting/what-publishers-are-supported.md)
   * [About Unsub](troubleshooting/about-unsub/README.md)
