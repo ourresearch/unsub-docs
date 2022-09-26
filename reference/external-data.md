@@ -78,4 +78,4 @@ Data source: [Unpaywall](https://unpaywall.org/)
 
 Update frequency: Every 6 hours (4x/day)
 
-Used in Unsub: xxx
+Used in Unsub: Used to determine usage patterns at a journal title level. Also used in creating citation and authorship data (see above for how citation and authorship data are used).
