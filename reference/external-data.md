@@ -79,3 +79,11 @@ Data source: [Unpaywall](https://unpaywall.org/)
 Update frequency: Every 6 hours (4x/day)
 
 Used in Unsub: Used to determine usage patterns at a journal title level. Also used in creating citation and authorship data (see above for how citation and authorship data are used).
+
+### Unpaywall Browser Extension
+
+Data source: [Unpaywall](https://unpaywall.org/) Browser Extension data; aggregated statistics about journal-level year of publication usage derived from usage of people with the Unpaywall browser extension installed
+
+Update frequency: Updated October 2022. Likely update frequency: annual
+
+Used in Unsub: Used to determine usage patterns at a journal title level.
