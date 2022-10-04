@@ -28,8 +28,9 @@ Here's an example of four rows of the report you'll download:
 
 A few notes about the data:
 
+* With the four columns in the report, you can use a spreadsheet filter tool to filter to all the titles that are missing for the same reason (e.g. missing title prices), and then look into those titles.&#x20;
 * A title can be missing for more than one reason. For example, it can be Gold OA and missing a title price.
-* For some titles you can change something so it appear in your dashboard. For example, if a title price is missing you can get a title price; if you've filtered the title out you can remove the title from your filtered titles upload. However, if the title is Gold OA or is no longer publishing, nothing can be done to make it appear in your dashboard.
+* For some titles you can change something so it appears in your dashboard. For example, if a title price is missing you can get a title price; if you've filtered the title out you can remove the title from your filtered titles upload. However, if the title is Gold OA or is no longer publishing, nothing can be done to make it appear in your dashboard.
 * Check out the [OpenAlex documentation](https://docs.openalex.org/) for more about OpenAlex.
 
 
