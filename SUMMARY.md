@@ -27,7 +27,7 @@
   * [Select journals](how-to-guides/select-journals.md)
   * [Bulk subscribe/unsubscribe](how-to-guides/bulk-subscribe-unsubscribe.md)
   * [APC Report](how-to-guides/apc-report.md)
-  * [Explore missing titles](how-to-guides/explore-missing-titles.md)
+  * [Missing titles report](how-to-guides/missing-titles-report.md)
 * [Reference](reference/README.md)
   * [Pricing](reference/pricing/README.md)
     * [Subscription costs](reference/subscription-costs.md)

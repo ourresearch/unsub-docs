@@ -10,3 +10,7 @@ There's a number of reasons a title you expect to see in your Unsub dashboard ma
 * The journal has stopped publishing articles.
 * Your Unsub package is missing a title price (a-la-carte price) for the journal.[ See here to correct this](../how-to-guides/upload-title-prices.md).
 * You have filtered out the title using the [journal filter setup step](../how-to-guides/upload-journal-filter.md). To fix this, upload a new journal filter file excluding the title(s) that you want included in your dashboard.
+
+
+
+To get a report on what titles are missing from your dashboard see [Missing titles report](../how-to-guides/missing-titles-report.md).
