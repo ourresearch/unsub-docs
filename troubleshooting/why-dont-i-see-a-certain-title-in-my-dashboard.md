@@ -13,4 +13,4 @@ There's a number of reasons a title you expect to see in your Unsub dashboard ma
 
 
 
-To get a report on what titles are missing from your dashboard see [Missing titles report](../how-to-guides/missing-titles-report.md).
+To get a report on what titles are missing from your dashboard see [Missing titles report](../how-to-guides/excluded-titles-report.md).

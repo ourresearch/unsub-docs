@@ -1,8 +1,8 @@
-# Missing titles report
+# Excluded Titles report
 
-Your Unsub dashboard may not include all the titles you uploaded in your COUNTER reports files. See our [Why don't I see a certain title in my dashboard?](../troubleshooting/why-dont-i-see-a-certain-title-in-my-dashboard.md) page, which details the four major reasons why a title could be missing.
+Your Unsub dashboard may not include all the titles you uploaded in your COUNTER reports files. See our [Why don't I see a certain title in my dashboard?](../troubleshooting/why-dont-i-see-a-certain-title-in-my-dashboard.md) page, which details the four major reasons why a title could be excluded.
 
-In your package Setup tab, under the **Diagnostic data** section, you will find a Missing Titles page which allows you to download a spreadsheet.
+In your package Setup tab, under the **Diagnostic data** section, you will find an Excluded Titles page which allows you to download a spreadsheet.
 
 In the spreadsheet there are two informational columns (issn\_l, publisher), and four columns for the four reasons a title could be excluded from a scenario. The columns are:
 
@@ -28,8 +28,8 @@ Here's an example of four rows of the report you'll download:
 
 A few notes about the data:
 
-* With the four columns in the report, you can use a spreadsheet filter tool to filter to all the titles that are missing for the same reason (e.g. missing title prices), and then look into those titles.&#x20;
-* A title can be missing for more than one reason. For example, it can be Gold OA and missing a title price.
+* With the four columns in the report, you can use a spreadsheet filter tool to filter to all the titles that are excluded for the same reason (e.g. missing title prices), and then look into those titles.&#x20;
+* A title can be excluded for more than one reason. For example, it can be Gold OA and missing a title price.
 * For some titles you can change something so it appears in your dashboard. For example, if a title price is missing you can get a title price; if you've filtered the title out you can remove the title from your filtered titles upload. However, if the title is Gold OA or is no longer publishing, nothing can be done to make it appear in your dashboard.
 * Check out the [OpenAlex documentation](https://docs.openalex.org/) for more about OpenAlex.
 
