@@ -31,7 +31,7 @@ If you click on "View Missing Titles", you will download a spreadsheet with the 
 
 ![Example of the spreadsheet you get after clicking "View Missing Titles"](<../.gitbook/assets/prices-setup-view-missing-titles-example (1).png>)
 
-Once you have your price data available, the format needed for Unsub is really simple. It's just two columns: **ISSN** and **Price**. You include a row for every journal where you have a custom price to set. The prices are interpreted in the Currency you set in your Package Setup (currency symbols are ignored). The file needs to be in .csv, .xlsx, or .xls format with just one sheet. Files can not contain formulas or other non value contents. We don't currently handle files that have non-value contents like formulas. Here's an example:
+Once you have your price data available, the format needed for Unsub is really simple. It's just two columns: **ISSN** and **Price**. You include a row for every journal where you have a custom price to set. The prices are interpreted in the Currency you set in your Package Setup (currency symbols are ignored). The file needs to be in .csv, .xlsx, or .xls format with just one sheet. Files can not contain formulas or other non value contents. We don't currently handle files that have non-value contents like formulas. Do not use commas or periods in the Price column. Here's an example:
 
 ![Example title pricelist spreadsheet file](../.gitbook/assets/setup-pricelist-example-file.png)
 
